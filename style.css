@@ -62,8 +62,7 @@ button{
   color: #3a3a3a;
 }
 /* Heading */
-.title,
-.add-label {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -89,7 +88,7 @@ button{
 }
 
 /* New Task */
-.add-label {
+.add-title {
   display: block;
   margin: 0 0 20px;
 }
