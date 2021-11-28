@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.matrix-container {
+.matrix-wrapper {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.matrix-container img {
+.matrix-wrapper img {
   width: 100%;
 }
-.matrix-container .more-inf {
+.matrix-wrapper .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .matrix-container { text-align: center;
+  .matrix-wrapper { text-align: center;
   }
 }
 .centered-main-page-element {
