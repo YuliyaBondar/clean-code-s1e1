@@ -133,7 +133,7 @@ button{
 }
 
 /* Completed */
-#completed-tasks .completed-label {
+#completed-tasks .list-label {
   text-decoration: line-through;
   color: #888;
 }
