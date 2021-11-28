@@ -18,8 +18,11 @@
 }
 
 @media (max-width:768px) {
-  .matrix-wrapper { text-align: center;
+
+  .matrix-wrapper { 
+    text-align: center;
   }
+
 }
 .form-wrapper {
   display: block;
