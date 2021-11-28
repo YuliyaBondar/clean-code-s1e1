@@ -13,7 +13,7 @@ body {
 .matrix-wrapper img {
   width: 100%;
 }
-.matrix-wrapper .more-inf {
+.matrix-wrapper .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
   .matrix-wrapper { text-align: center;
   }
 }
-.centered-main-page-element {
+.form-wrapper {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.add-mode {
   display: flex;
 }
 ul {
@@ -118,12 +118,12 @@ li > label {
 li >    input[type="text"] {
   width: 226px
 }
-button.delete-button img {
+button.delete-btn img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-button.delete-button img:hover {
+button.delete-btn img:hover {
   transform: rotateZ(0);
 }
 
